@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZavrsniRadConsoleApp", "ZavrsniRadConsoleApp.csproj", "{C6C816A8-CEAD-4FF0-B6B9-08D56D8FC565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C816A8-CEAD-4FF0-B6B9-08D56D8FC565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C816A8-CEAD-4FF0-B6B9-08D56D8FC565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C816A8-CEAD-4FF0-B6B9-08D56D8FC565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C816A8-CEAD-4FF0-B6B9-08D56D8FC565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B183FEC-9CF9-4118-AB9E-3280EEE8B5AD}
+	EndGlobalSection
+EndGlobal
