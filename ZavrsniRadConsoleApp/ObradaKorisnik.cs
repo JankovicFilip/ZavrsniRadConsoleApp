@@ -34,7 +34,7 @@ namespace ZavrsniRadConsoleApp
             }
         }
 
-        private void PrikaziIzbornik()
+        public void PrikaziIzbornik()
         {
             Console.WriteLine("Izbornik za rad s korisnicima");
             Console.WriteLine("1. Pregled svih korisnika");
@@ -73,7 +73,7 @@ namespace ZavrsniRadConsoleApp
 
         
 
-        private void PrikaziKorisnike()
+        public void PrikaziKorisnike()
         {
             Console.WriteLine("*****************************");
             Console.WriteLine("Korisnici u aplikaciji");
@@ -84,7 +84,7 @@ namespace ZavrsniRadConsoleApp
             }
             Console.WriteLine("****************************");
         }
-        private void UnosNovogKorisnika()
+        public void UnosNovogKorisnika()
         {
             Console.WriteLine("***************************");
             Console.WriteLine("Unesite tražene podatke o polazniku");

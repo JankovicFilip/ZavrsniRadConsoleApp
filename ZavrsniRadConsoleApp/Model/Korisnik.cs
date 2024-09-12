@@ -11,6 +11,11 @@ namespace ZavrsniRadConsoleApp.Model
 
         public string? Username { get; set; }
         public string? Password { get; set; }
+
+        public int CompareTo(Korisnik? other)
+        {
+            return Prezime.CompareTo(other.Prezime); 
+        }
     }
 
 }

@@ -11,6 +11,7 @@ namespace ZavrsniRadConsoleApp.Model
 
         public string? Opis { get; set; }
         public List<Korisnik>? Korisnici { get; set; }
+        public int? MaksimalnoKorisnika { get; set; }
         public Medij? Mediji { get; set; }
 
     }

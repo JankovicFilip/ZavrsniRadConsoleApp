@@ -69,7 +69,7 @@ namespace ZavrsniRadConsoleApp
                     break;
             }
         }
-        private void PrikaziMedije()
+        public void PrikaziMedije()
         {
             Console.WriteLine("*****************************");
             Console.WriteLine("Mediji u aplikaciji");
